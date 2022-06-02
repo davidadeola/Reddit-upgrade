@@ -93,6 +93,10 @@ function Header() {
             />
           </div>
 
+          <section>
+            <h1>This is the section Header</h1>
+          </section>
+
           <p className="text-gray-400">Sign in</p>
         </div>
       )}
